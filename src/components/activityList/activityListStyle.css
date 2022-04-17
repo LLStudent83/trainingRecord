@@ -1,0 +1,10 @@
+.ActivityList__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ActivityList__list {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
